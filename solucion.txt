@@ -1,4 +1,8 @@
 Aqui va el código fuente para solucionar la incidencia IC2394
 Aqui va el codigo fuente para solucionar la incidencia IC2879"
 
+<<<<<<< HEAD
 Aqui va el código fuente para solucionar la incidencia IC2394
+
+Aqui va el código fuente para solucionar la incidencia IC2879
+>>>>>>> parche2
